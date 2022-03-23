@@ -1,1 +1,1 @@
-README for alx-low-level_programming
+README for alx-low-level programming
