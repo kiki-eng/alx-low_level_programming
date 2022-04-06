@@ -1,1 +1,1 @@
-README for static libraries in C
+README for static libraries in C.
